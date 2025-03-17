@@ -8,8 +8,10 @@ public class Student {
 
         System.out.println("1111111");
 
-        for (String arg : args) {
-            
-        }
+
+
+
+
+        System.out.println("22222");
     }
 }
