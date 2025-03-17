@@ -7,5 +7,11 @@ public class Student {
         System.out.println(1);
 
         System.out.println("1111111");
+
+
+
+
+
+        System.out.println("22222");
     }
 }
