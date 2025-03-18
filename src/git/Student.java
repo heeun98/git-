@@ -13,5 +13,14 @@ public class Student {
 
 
         System.out.println("22222");
+
+        int[] sex = new int[10];
+
+        for (int i = 0; i < 10; i++) {
+            System.out.println("11111");
+        }
+
+
+        System.out.println("222222");
     }
 }
