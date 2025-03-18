@@ -19,5 +19,8 @@ public class Student {
         for (int i = 0; i < 10; i++) {
             System.out.println("11111");
         }
+
+
+        System.out.println("222222");
     }
 }
